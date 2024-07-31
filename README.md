@@ -1,16 +1,16 @@
-# session_management_system
+# Flutter Session Manager
 
-A new Flutter project.
+A Flutter application that demonstrates session management using local storage. This app enables users to log in, maintain sessions, and log out, with session persistence even after the app is closed.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Login/Logout Functionality:** Simple authentication to manage user sessions.
+- **Session Persistence:** Sessions are stored locally to maintain user state.
+- **User-friendly Interface:** A clean and intuitive interface for session management.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot from 2024-07-31 14-53-13](https://github.com/user-attachments/assets/c5311e13-8b77-45d3-989b-61633103d1ab)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![4 (1)](https://github.com/user-attachments/assets/86963ddc-00bb-4211-aaa9-250cf3fcfe1e)
